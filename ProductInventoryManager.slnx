@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProductInventoryManager.App/ProductInventoryManager.App.csproj" />
+  <Project Path="ProductInventoryManager.Cli/ProductInventoryManager.Cli.csproj" />
+  <Project Path="ProductInventoryManager.Core/ProductInventoryManager.Core.csproj" />
+  <Project Path="ProductInventoryManager.Tests/ProductInventoryManager.Tests.csproj" />
+</Solution>
